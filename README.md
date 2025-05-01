@@ -24,7 +24,7 @@ An interactive dashboard built with Tableau to explore and analyze e-commerce or
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](./screenshots/dashboard_overview.png)
+[![Dashboard Overview](./screenshots/dashboard_overview.png)](https://github.com/Holly-is-icecream/E-commerce-Sales-Dashboard-with-Tableau/blob/main/dashboard_overview.png)
 
 ## 📎 Related Skills
 
