@@ -1,8 +1,8 @@
-# 📊 E-commerce Sales Dashboard (Tableau)
+# E-commerce Sales Dashboard (Tableau)
 
 An interactive dashboard built with Tableau to explore and analyze e-commerce order data. The dashboard offers actionable insights into order trends, customer behavior, and product category performance.
 
-## 🔍 Key Features
+## Key Features
 
 - **KPI Summary**: Total sales, total orders, average order amount, and average quantity per order
 - **Daily Sales Trend**: Line chart showing daily revenue by order type
@@ -11,18 +11,18 @@ An interactive dashboard built with Tableau to explore and analyze e-commerce or
 - **Category Breakdown**: Pie/bubble chart showing sales by product category
 - **Interactive Filters**: Enable viewers to filter by order type or region
 
-## 📁 Project Files
+## Project Files
 
 - `orders_kpi_demo.xlsx`: Cleaned e-commerce dataset
 - `screenshots/dashboard_overview.png`: Full dashboard preview
 
-## 🧰 Tools Used
+## Tools Used
 
 - Tableau Desktop / Tableau Public
 - Excel / CSV
 - Data visualization, dashboard design, KPI analysis
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 [![Dashboard Overview](./screenshots/dashboard_overview.png)](https://github.com/Holly-is-icecream/E-commerce-Sales-Dashboard-with-Tableau/blob/main/dashboard_overview.png)
 
